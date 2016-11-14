@@ -12,7 +12,7 @@ $APPLICATION->SetTitle("Главная");
 		"COMPOSITE_FRAME_MODE" => "A",
 		"COMPOSITE_FRAME_TYPE" => "AUTO",
 		"EDIT_TEMPLATE" => "",
-		"PATH" => "/local/templates/landing/partial/news.php",
+		"PATH" => "/local/templates/.default/partial/news.php",
 		"COMPONENT_TEMPLATE" => "news",
 		"USER_TITLE" => "Новости на главной"
 	),
